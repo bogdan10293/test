@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nswngwUBgf4JUgkGtKL8mpP0wc3UI9GRzSXdxonZNf4qzdCG9WFcf05oA/BtYoJOQcmBeY0RPZeczPDDa6EPhA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ksstad\\ksstad\\General.Domain\\General.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darkl\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\darkl\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
